@@ -1,0 +1,15 @@
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\ftend\OneDrive\Desktop\PTG Projects\DataAccess\obj\Debug\net5.0\DataAccess.pdb
